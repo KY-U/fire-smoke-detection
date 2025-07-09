@@ -1,4 +1,5 @@
 FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET/
+dataset_preprocessed/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
